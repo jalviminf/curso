@@ -1,0 +1,6 @@
+valor_combustivel = 6.8994
+litros = 20
+total_abastecido = valor_combustivel * litros
+
+print(f'total:{total_abastecido:.2f}R$')
+print('total:{:.2f}R$'.format(total_abastecido))
