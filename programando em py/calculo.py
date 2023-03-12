@@ -6,3 +6,4 @@ numero2 = int (input("informe outro número"))
 resultado_soma = numero1 + numero2
 resultado_multiplicao = numero1 * numero2
 print("A soma foi ", resultado_soma, "e a multiplicaçao foi" , resultado_multiplicao)
+''' primeira aula '''
