@@ -1,5 +1,13 @@
-print('contando de 1 a 100:')
+'print('contando de 1 a 100:')
 
-for i in range(100):
-    valor = i + 1
-    print(f'cotando:{valor:03}')
+'for i in range(100):
+    'valor = i + 1
+    'print(f'cotando:{valor:03}')
+
+    'while enquanto for verdadeiro execute um bloco de codigo'
+    'break interrompe o laço'
+    'continue é usado para pular uma repetiçao de um loop'
+    'loop é uma estrutura de repetiçao que permite que vc execute um pedaço do codigo varias vezes'
+
+
+   '    == → Operador “igual a”!= → Operador “diferente de”< → Operador “menor que”<= → Operador “menor ou igual a”> → Operador “maior que”>= → Operador “maior ou igual a”'
