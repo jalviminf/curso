@@ -8,3 +8,4 @@ print (f'ola eu sou o {nome}.tenho {idade}anos.moro no {pais}')
 
 print ('ola,eu sou o {}. tenho {} anos. moro no {}.'.format (nome,idade,pais))
 
+
