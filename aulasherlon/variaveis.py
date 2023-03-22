@@ -32,9 +32,9 @@ print('X =', A + B)'''
 '''raio = float(input())
 n = 3.14159
 area = n*raio*raio
-print ('A=%.4f' % area)''' 
+print ('A=%.4f' % area)''''''
 
-n = int(input('Digite um número qualquer: '))
+'''''''n = int(input('Digite um número qualquer: '))
 
 if n % 2 == 0:
 
@@ -42,4 +42,21 @@ if n % 2 == 0:
 
 else:
 
-    print('O número é ÍMPAR!')
+    print('O número é ÍMPAR!')'''
+
+'''A = int(input())
+B = int(input())
+
+SOMA = A + B
+
+print ("SOMA = " , A + B)'''
+
+'''A = int(input())
+B = int(input())
+PROD = A*B
+
+print ("PROD =", PROD)'''
+
+A = 3.5
+B = 7.5
+
